@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585926024 source:c:\users\massimo sandretti\desktop\codeforces\contest\educational\round #631\a\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
